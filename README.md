@@ -1,11 +1,13 @@
 # Olá, eu sou João Paulo Santos! 🖐️
 
-Meu objetivo é me tornar um Front-end Developer, buscando sempre novos desafios e qualificações no mundo da programação/TI. 
+Meu objetivo é me tornar um Web Developer, buscando sempre novos desafios e qualificações no mundo da programação/TI. 
 
-# Tecnologias: 
+# Tecnologias em foco: 
 
-Desenvolvedor Front-end (Client-Side): Hmtl5; Css3; JavaScript; PHP; Python. 
-Bibliotecas e Frameworks: JQuery; Bootstrap; React.
+HTML, CSS, Javascript, Typescript 
+
+NodeJs, PHP e Laravel, reactJs, React Native 
+
 
 # Redes Sociais: 
 
