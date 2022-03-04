@@ -26,6 +26,7 @@ My goal is to become a Full-Stack Web Development, always seeking new challenges
 [![Perfil no Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jottasantos.dev/)
 [![Perfil no Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotacostasantos/)
 [![Perfil no Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFvc0BzSFUZjx_MTJqvQ3dQ)
+[![Perfil no TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jottasantosdev)
 
 
 
